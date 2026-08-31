@@ -24,6 +24,10 @@ A premium, framework-free real estate website template built with semantic HTML,
 - **Vanilla JavaScript** — IntersectionObserver, form handling, burger toggle, filter tabs
 - **Google Fonts** — DM Sans (headings) + Inter (body)
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## Design System
 
 | Token | Value |
